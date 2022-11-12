@@ -7,4 +7,5 @@ def most_frequent(string):
         else:
             d[key] += 1
     return d
-print (most_frequent(W))
+a=most_frequent (reversed ("Mississippi"))
+print(a)
